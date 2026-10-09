@@ -26,9 +26,11 @@
         }
     }
     
+    /**@type {HTMLDivElement} */
     const $ = document.querySelector;
+
     const terminal = new Terminal($("#terminal"));
     
-    
+    terminal.
 
 })();
